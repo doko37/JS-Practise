@@ -1,1 +1,1 @@
-hahaha
+var a = 42;
